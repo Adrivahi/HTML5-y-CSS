@@ -19,3 +19,5 @@ Características que debe tener el sitio web realizadoPermalink
 8.Debe existir al menos una tabla.
 9.Debe existir un formulario que envíe los datos http://www2.gonzalonazareno.org/josedom/resultado.php.
 10.Todas las páginas deben tener un favicon.
+
+Enlace a la página: https://nbaproyectohtml.000webhostapp.com/
